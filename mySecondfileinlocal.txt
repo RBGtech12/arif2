@@ -1,0 +1,6 @@
+public class uuu
+{
+public void funA()
+{
+}
+}
