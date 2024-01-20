@@ -2,5 +2,9 @@ public class ramu
 {
 public static test1()
 {
+
 }
+public String arif(int a)
+{
+ return a;
 }
