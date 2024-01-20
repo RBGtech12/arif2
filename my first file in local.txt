@@ -1,0 +1,6 @@
+public class ramu
+{
+public static test1()
+{
+}
+}
